@@ -1,1 +1,10 @@
 .DS_Store
+
+# Natours
+Natours/node_modules
+
+# Nexter
+Nexter/node_modules
+
+# Trillo
+Trillo/node_modules
